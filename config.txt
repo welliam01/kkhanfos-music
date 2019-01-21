@@ -1,4 +1,4 @@
-token=process.env.BOT_TOKEN
+token=NTM1NTYwNTAzMjcyMTQ0OTA2.DyeNhw.WnJg20kXTMj5XFmghOfZW0kMYU4
 owner=517036149487960075
 prefix=K
 game=Type Khelp
